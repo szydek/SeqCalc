@@ -6,8 +6,8 @@
 
 
 ### Set Theory Info:
-https://en.wikipedia.org/wiki/Set_(music)
-https://en.wikipedia.org/wiki/List_of_pitch-class_sets
+- https://en.wikipedia.org/wiki/Set_(music)
+- https://en.wikipedia.org/wiki/List_of_pitch-class_sets
 
 
 ### Recompilation Notes:
