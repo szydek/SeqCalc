@@ -23,7 +23,7 @@ An example session might look something like the following once it's been loaded
 
 ![SeqCalc Max4Live Loaded Device](SeqCalc_beta-v1-loaded.png)
 
-Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scribbletune.com/documentation/core/clip#pattern) is entered for a selected Ableton clip, click the "Send" button to generate a new clip based on the current settings.  
+Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scribbletune.com/documentation/core/clip#pattern) is entered for a selected Ableton clip, click the "Send" button to generate a new clip based on the current settings. The chosen clip should change on-demand.
 
 ### TO-DO:
 - Better documentation and descriptions of features and how to use them - for now, load the device and experiment. Feel free to contribute !
