@@ -2,30 +2,30 @@
 
 ![SeqCalc Max4Live Device](SeqCalc_beta-v1.png)
 
-## Set-Theory oriented Max4Live Sequencer / Calculator
+## Set-Theory Oriented Max4Live Sequencer / Calculator
 
-First off, this device would not be possible without [Scribbletune](https://scribbletune.com) and [Tonal](https://github.com/tonaljs). Please check the links to learn the latest about these fantastic projects. As time permits, SeqCalc will be updated to incorporate future enhancements to these libraries as deemed suitable.
+This device would not be possible without [Scribbletune](https://scribbletune.com) and [Tonal](https://github.com/tonaljs). Please check the links to learn the latest about these fantastic projects. As time permits, SeqCalc will be updated to incorporate future enhancements to these libraries as deemed suitable.
 
-The idea behind SeqCalc is to use [pitch-class (PC) sets](https://en.wikipedia.org/wiki/Set_(music)) to help generate melodic sequences in the context of Ableton Live *-- tested using Live Suite v10 on MacOS*. 
+The idea behind SeqCalc is to use [pitch-class (PC) sets](https://en.wikipedia.org/wiki/Set_(music)) to help generate melodic sequences in the context of Ableton Live *-- tested using Live Suite v10 on MacOS Catalina*. 
 
-If you are unfamiliar with using set notation in the realm of music composition, see the Background/Info links below. On the most basic level, you may think of the set approach as a more purely mathematical abstraction where integers (and permutations thereof) are used to describe music rather than the more traditional harmonic language of major, minor, dominant, etc. "The Structure of Atonal Music", an imporant work by Allen Forte, helped fortify set theory oriented analysis of modern music. 
+If you are unfamiliar with how set notation is used in the realm of music composition, please see the Background/Info links below. One may think of the set approach as a more purely mathematical abstraction where integers (and permutations thereof) are used to describe music rather than the more traditional harmonic language of major, minor, dominant, etc. "The Structure of Atonal Music", an imporant work by Allen Forte, helped fortify set theory oriented analysis of modern music. 
 
 SeqCalc uses these concepts but also leverages Scribbletune note and pattern syntax with buttons than can be MIDI-mapped to any MIDI controller device (i.e., Launchpad). This is intended to help make it more usable in the live setting.
 
-To load the SeqCalc Max device, simply copy the following files to a directory visible within Ableton Live "places" and then load to a dedicated track like you would with any M4L device:
+To load the SeqCalc Max device, copy the following files to a directory visible within Ableton Live "places" and then load to a dedicated track like you would with any M4L device:
 
 ```seqcalc_beta-v1.amxd```
 ```scribble1.js```
-```seqcalc_beta-v1.amxd```
+```params.js```
 ```settheory.js```
 
-A typical session might look something like the following once it's been loaded:
+An example session might look something like the following once it's been loaded:
 
 ![SeqCalc Max4Live Loaded Device](SeqCalc_beta-v1-loaded.png)
 
 Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scribbletune.com/documentation/core/clip#pattern) is entered for a selected Ableton clip, click the "Send" button to generate a new clip based on the current settings.  
 
-TO-DO:
+### TO-DO:
 - Better documentation and descriptions of features and how to use them - for now, load the device and experiment. Feel free to contribute !
 - Overview/demo videos - for now, see this clip to get an idea of how it works...
 - Ability to load PC Sets based on Forte Numbers
