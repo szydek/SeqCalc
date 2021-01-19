@@ -2,7 +2,7 @@
 
 ![SeqCalc Max4Live Device](SeqCalc_beta-v1.png)
 
-## Set-Theory oriented Max4Live sequencer / calculator
+## Set-Theory oriented Max4Live Sequencer / Calculator
 
 First off, this device would not be possible without [Scribbletune](https://scribbletune.com) and [Tonal](https://github.com/tonaljs). Please check the links to learn the latest about these fantastic projects. As time permits, SeqCalc will be updated to leverage incorporate enhancements as deemed suitable.
 
