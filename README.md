@@ -6,9 +6,11 @@
 
 First off, this device would not be possible without [Scribbletune](https://scribbletune.com) and [Tonal](https://github.com/tonaljs). Please check the links to learn the latest about these fantastic projects. As time permits, SeqCalc will be updated to incorporate future enhancements to these libraries as deemed suitable.
 
-The idea behind SeqCalc is to use [pitch-class (PC) sets](https://en.wikipedia.org/wiki/Set_(music)) to help generate melodic sequences in the context of Ableton Live *-- tested using Live Suite v10 on MacOS*. If you are unfamiliar with using sets in the realm of music theory, see the Background/Info links below. On the most basic level, think of the set approach as an abstraction where integers (and mathematical permutations) are used to describe music rather than the harmonic language of major, minor, dominant, etc. "The Structure of Atonal Music" by Allen Forte helped fortify set theory oriented analysis of modern music. 
+The idea behind SeqCalc is to use [pitch-class (PC) sets](https://en.wikipedia.org/wiki/Set_(music)) to help generate melodic sequences in the context of Ableton Live *-- tested using Live Suite v10 on MacOS*. 
 
-SeqCalc leverages Scribbletune syntax with buttons than can be MIDI-mapped to any MIDI controller device (i.e., Launchpad) for intended to be used in live settings.
+If you are unfamiliar with using set notation in the realm of music composition, see the Background/Info links below. On the most basic level, you may think of the set approach as a more purely mathematical abstraction where integers (and permutations thereof) are used to describe music rather than the more traditional harmonic language of major, minor, dominant, etc. "The Structure of Atonal Music", an imporant work by Allen Forte, helped fortify set theory oriented analysis of modern music. 
+
+SeqCalc uses these concepts but also leverages Scribbletune note and pattern syntax with buttons than can be MIDI-mapped to any MIDI controller device (i.e., Launchpad). This is intended to help make it more usable in the live setting.
 
 To load the SeqCalc Max device, simply copy the following files to a directory visible within Ableton Live "places" and then load to a dedicated track like you would with any M4L device:
 
@@ -29,12 +31,12 @@ TO-DO:
 - Ability to load PC Sets based on Forte Numbers
 - Presets?
 
-### Set Theory Background/Info:
+### Set Theory Background/Info
 - https://en.wikipedia.org/wiki/Set_(music)
 - https://en.wikipedia.org/wiki/List_of_pitch-class_sets
 
 
-### Recompilation Notes:
+### Recompilation Notes
 - https://scribbletune.com/documentation/max
 - https://github.com/tonaljs/tonal
 - Once all Node.js requirements and Scribbletune dependencies are met, simply run the following to create the needed "scribble1.js" file:
