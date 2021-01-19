@@ -4,20 +4,22 @@
 
 ## Set-Theory oriented Max4Live sequencer / calculator
 
-First off, this device would not be possible without the [https://scribbletune.com](Scribbletune) and [https://github.com/tonaljs](Tonal.js). Please check out these links to learn the latest about these fantastic projects.
+First off, this device would not be possible without [Scribbletune](https://scribbletune.com) and [Tonal](https://github.com/tonaljs). Please check the links to learn the latest about these fantastic projects. As time permits, SeqCalc will be updated to leverage incorporate enhancements as deemed suitable.
 
-The idea behind SeqCalc is to use pitch-class sets to help generate melodic ideas and sequences in Ableton Live -- tested using Live Suite 10 on MacOS. It also leverages Scribbletune syntax with buttons than can be mapped to any MIDI controller device (i.e., Launchpad) for on-the-fly musical composition.
+The idea behind SeqCalc is to use [pitch-class (PC) sets](https://en.wikipedia.org/wiki/Set_(music)) to help generate melodic sequences in the context of Ableton Live -- tested using Live Suite v10 on MacOS. SeqCalc also leverages Scribbletune syntax with buttons than can be MIDI-mapped to any MIDI controller device (i.e., Launchpad) for intended to be used in live settings.
 
-To load the SeqCalc device, simply copy the following files to a directory visible within Ableton Live "places" to thus be loaded into a dedicated track:
+To load the SeqCalc Max device, simply copy the following files to a directory visible within Ableton Live "places" and then load to a dedicated track like you would with any M4L device:
 
 ```seqcalc_beta-v1.amxd```
 ```scribble1.js```
 ```seqcalc_beta-v1.amxd```
 ```settheory.js```
 
-A typical setup might look something like the following once it's been loaded:
+A typical session might look something like the following once it's been loaded:
 
 ![SeqCalc Max4Live Loaded Device](SeqCalc_beta-v1-loaded.png)
+
+Depending on the chosen mode, once a PC Set (or scale) is loaded -- depending on the chosen mode
 
 TO-DO:
 - Better descriptions of features and how to use - for now, load it and experiment. Feel free to contribute !
