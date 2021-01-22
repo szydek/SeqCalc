@@ -1,6 +1,6 @@
 # SeqCalc
 
-![SeqCalc Max4Live Device](SeqCalc_beta-v1.png)
+![SeqCalc Max4Live Device](SeqCalc_beta-v2.png)
 
 ## Set-Theory Oriented Max4Live Sequencer / Calculator
 
@@ -21,7 +21,7 @@ To load the SeqCalc Max device, copy the following files to a directory visible 
 
 An example session might look something like the following once it's been loaded
 
-![SeqCalc Max4Live Loaded Device](SeqCalc_beta-v1-loaded.png)
+![SeqCalc Max4Live Loaded Device](SeqCalc_beta-v2-loaded.png)
 
 Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scribbletune.com/documentation/core/clip#pattern) is entered for a selected Ableton clip, click the "CalcS" and "Send" buttons to generate a new clip based on the current settings. The chosen clip should change on-demand.
 
