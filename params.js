@@ -19,7 +19,7 @@ function list()
 	var pcset = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "a", "b"];
 	var octset = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
 	var rhyset = ["x","R","-","_","[","]","","","","","",""];
-	var fset = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,"-","-"]; // To-do: Forte Set calculator
+	var fset = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9,"Z","-"]; // To-do: Forte Set calculator
 	// post("received list " + a + "\n"); // for Debugging
 	
 	// post("received test message " + a + "\n");
