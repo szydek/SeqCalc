@@ -14,7 +14,7 @@ SeqCalc uses these concepts but also leverages Scribbletune note and pattern syn
 
 To load the SeqCalc Max device, copy the following files to a directory visible within Ableton Live "places" and then load to a dedicated track like you would with any M4L device. It's best to have a dedicated track as there are certain buttons with hardcoded MIDI notes for feedback on Launchpad devices.
 
-```seqcalc_beta-v1.amxd```
+```seqcalc_beta-v2.amxd```
 ```scribble1.js```
 ```params.js```
 ```settheory.js```
