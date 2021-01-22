@@ -29,6 +29,7 @@ Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scr
 - Better documentation and descriptions of features and how to use them - for now, load the device and experiment. Feel free to contribute !
 - Overview/demo videos - see [this clip on Instagram](https://www.instagram.com/p/CJ4rnksBiWx) to see an earlier version in action. More demos to come...
 - Ability to load PC Sets based on Forte Numbers *(added to v2 on 1/22/2021)*
+- Fix calculation race condition and requirement for using spaces when entering Forte and Scribbletune text.
 - Presets?
 
 ### Set Theory Background/Info
