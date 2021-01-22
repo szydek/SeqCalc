@@ -18,6 +18,7 @@ To load the SeqCalc Max device, copy the following files to a directory visible 
 ```scribble1.js```
 ```params.js```
 ```settheory.js```
+```forte.js```
 
 An example session might look something like the following once it's been loaded
 
