@@ -27,8 +27,8 @@ Depending on the chosen mode, once a PC Set (or scale) and [pattern](https://scr
 
 ### TO-DO:
 - Better documentation and descriptions of features and how to use them - for now, load the device and experiment. Feel free to contribute !
-- Overview/demo videos - for now, see [this clip on Instagram](https://www.instagram.com/p/CJ4rnksBiWx) to see an earlier version in action.
-- Ability to load PC Sets based on Forte Numbers
+- Overview/demo videos - see [this clip on Instagram](https://www.instagram.com/p/CJ4rnksBiWx) to see an earlier version in action. More demos to come...
+- Ability to load PC Sets based on Forte Numbers *(added to v2 on 1/22/2021)*
 - Presets?
 
 ### Set Theory Background/Info
